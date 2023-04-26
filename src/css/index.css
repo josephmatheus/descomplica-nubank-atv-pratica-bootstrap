@@ -31,3 +31,14 @@ header {
     border-radius: 5%;
 }
 
+.our-team img {
+    border-radius: 50%;
+    transform: scale(.7);
+}
+
+.our-team ul li {
+    background-color: rgb(13, 27, 42);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
