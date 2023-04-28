@@ -27,8 +27,17 @@ header {
     color: rgb(13, 27, 42);
 }
 
+.about {
+    background-color: rgb(13, 27, 42);
+}
+
 .about img {
     border-radius: 5%;
+}
+
+.our-team h2, .our-team h5,
+.our-products h2, .our-products .card-body h5 {
+    color: rgb(13, 27, 42);
 }
 
 .our-team img {
@@ -41,4 +50,9 @@ header {
     width: 30px;
     height: 30px;
     border-radius: 50%;
+}
+
+.footer {
+    background-color: rgb(13, 27, 42);
+    color: white;
 }
