@@ -7,12 +7,9 @@ _Projeto desenvolvido como atividade prática do módulo de HTML, CSS e Bootstra
 
 ## **HTML, CSS e Bootstrap: Atividade Prática**
 
-<br>
 </div>
 
 ### **Projeto Loja Virtual com Bootstrap**
-
-<br>
 
 - **Título da Prática:** Aplicação do uso do Bootstrap, cards, carrossel e imagens em um documento HTML.
 - **Objetivo:** Identificar, codificar as propriedades disponíveis do Bootstrap e aplicar em um documento HTML para reproduzir o site especificado.
@@ -33,10 +30,8 @@ _Projeto desenvolvido como atividade prática do módulo de HTML, CSS e Bootstra
     6. ___Rodapé:___ No rodapé, informe o endereço, telefone e as redes sociais da empresa. Veja abaixo um exemplo das seções citadas acima. Contudo, não precisa ser idêntico aos exemplos abaixo. Apenas estamos apresentando alguns exemplos das seções, fique à vontade para criar do seu jeito dando sentido a cada seção proposta.
 
 ---
-<br>
 
 ## 🖼 **Imagem do Projeto**
-<br>
 
 ![App Desktop View](./readme-src/desktop-project-view.gif)
 
