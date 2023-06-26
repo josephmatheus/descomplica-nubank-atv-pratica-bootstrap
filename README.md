@@ -1,6 +1,6 @@
 # **Lojinha JMK**
 
-_Projeto desenvolvido como atividade prática do módulo de HTML, CSS e Bootstrap do Descomplica em parceria com Instituto Nu_.
+_Projeto desenvolvido como atividade prática do módulo de HTML, CSS e Bootstrap do curso de desenvolvimento web front-end do Descomplica em parceria com Instituto Nu_.
 _Você pode conferir o resultado [**aqui**](https://josephmatheus.github.io/descomplica-nubank-atv-pratica-bootstrap/) 🔗_
 
 ---
